@@ -1,3 +1,5 @@
+This is a fork of. ATM there are no changes.
+
 # Rpisurv 3 - Raspberry Pi surveillance
 Join the community on https://community.rpisurv.net (Please use this place for support questions instead of github issues).<br/>
 Bug tracking https://github.com/SvenVD/rpisurv/issues.<br/>
